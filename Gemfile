@@ -7,5 +7,4 @@ group :jekyll_plugins do
 	gem 'jekyll-seo-tag', '2.1.0'
 	gem 'jekyll-paginate', '1.1.0'
 	gem 'jekyll-sitemap', '1.0.0'
-	gem 'wdm', '>= 0.1.0'
 end
